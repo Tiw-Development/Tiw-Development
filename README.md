@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:12162B,100:4338F0&text=Salem%20Meknez&fontColor=ffffff&fontSize=56&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20AI%20Automation%20%7C%20Bots%20%7C%20FiveM&descSize=18&descAlignY=62" alt="Tiw" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:12162B,100:4338F0&text=Tiw%20Development&fontColor=ffffff&fontSize=56&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20AI%20Automation%20%7C%20Bots%20%7C%20FiveM&descSize=18&descAlignY=62" alt="Tiw" width="100%" />
 
 [![Email](https://img.shields.io/badge/Email-salemmeknez10%40gmail.com-4338F0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salemmeknez10@gmail.com)
 
