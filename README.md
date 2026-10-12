@@ -3,6 +3,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:12162B,100:4338F0&text=Tiw%20Development&fontColor=ffffff&fontSize=56&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20AI%20Automation%20%7C%20Bots%20%7C%20FiveM&descSize=18&descAlignY=62" alt="Tiw" width="100%" />
 
 [![Email](https://img.shields.io/badge/Email-salemmeknez10%40gmail.com-4338F0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salemmeknez10@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@salemmeknez-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/salemmeknez)
+![Discord](https://img.shields.io/badge/Discord-.tiw__-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 </div>
 
@@ -50,7 +52,9 @@ For project inquiries, email me a short description of what you need.
 
 <div align="center">
 
-[![Contact](https://img.shields.io/badge/Contact-salemmeknez10%40gmail.com-4338F0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salemmeknez10@gmail.com)
+[![Contact](https://img.shields.io/badge/Email-salemmeknez10%40gmail.com-4338F0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salemmeknez10@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@salemmeknez-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/salemmeknez)
+![Discord](https://img.shields.io/badge/Discord-.tiw__-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:4338F0,100:12162B&section=footer" width="100%" alt="" />
 
